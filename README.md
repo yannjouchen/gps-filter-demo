@@ -1,10 +1,12 @@
 ## Quick start
 
 Several quick start are available:
+- npm init
 - npm install
+- 換上你的 Google Maps API 金鑰
 - npm start
-- 
-## Quick start
+
+## 常見 GPS 過濾方法比較
 
 | 過濾方法                | 適用情境            | 優點           | 缺點           |
 | ------------------- | --------------- | ------------ | ------------ |
