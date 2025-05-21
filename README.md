@@ -1,16 +1,9 @@
 ## Quick start
 
 Several quick start are available:
-
 - npm install
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap@v5.3.6`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@v5.3.6`
-- Install with [Bun](https://bun.sh/): `bun add bootstrap@v5.3.6`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.3.6`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
-
-
+- npm start
+- 
 ## Quick start
 
 | 過濾方法                | 適用情境            | 優點           | 缺點           |
