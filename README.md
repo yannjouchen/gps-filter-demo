@@ -16,6 +16,7 @@ Several quick start are available:
 
 ## 專案架構概覽
 
+```text
 gps-tracker/
 ├── public/
 │   ├── index.html       ← 前端頁面，顯示地圖和軌跡
@@ -26,3 +27,4 @@ gps-tracker/
 │   └── oneEuro.js       ← One Euro filter（可選）
 ├── server.js            ← Node.js + WebSocket 模擬 GPS 資料與處理
 ├── package.json
+ ```
